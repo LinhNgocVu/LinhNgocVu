@@ -41,7 +41,8 @@
 
 <details open> 
   <summary><h2>🏷️ Credly Badges</h2></summary>
-  <p><a href="https://www.credly.com/users/vu-linh.5e2ce4b8/badges#credly"><img width="1117" height="700" alt="image" src="https://github.com/user-attachments/assets/c9aeadcc-aeee-471d-bfff-9ea7ccc414e5" />
+  <p><a href="https://www.credly.com/users/vu-linh.5e2ce4b8/badges#credly"><img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/9a21f4b6-dc0c-49f2-9135-83b2da75318f" />
+
 
 
 </a></p>
